@@ -1,1 +1,1 @@
-<?php headerrr( 'Location: /index.htmel') ; ?>
+<?php header( 'Location: /index.htmel') ; ?>
