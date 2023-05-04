@@ -1,7 +1,16 @@
 <!DOCTYPE html>
 <html>
+<head>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif&family=Libre+Franklin:wght@300&family=Roboto:wght@100;400&display=swap" rel="stylesheet">
+  <title>Test</title>
+</head>
+<body>
+  <h1>This is a test</h1>
+  <p>seeing if I know what I am doing</p>
+  <h4>John Michael Nolan-Moso (Jr)</h4>
+</body>
+
 </html>
 
